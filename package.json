@@ -135,5 +135,9 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "cypress": "4.7.0",
+    "cypress-react-unit-test": "4.3.1"
   }
 }
